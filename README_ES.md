@@ -1,4 +1,4 @@
-<h1 align="center">Adivina la Película — Proyecto Java 🎬</h1>
+<h1 align="center">Adivina la Película — Java 🎬</h1>
 <p align="left">
   <a href="README_ES.md" target="_blank">
     View README in English
