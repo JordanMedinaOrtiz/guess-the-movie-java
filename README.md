@@ -73,7 +73,7 @@
    <ul>
      <li>Select a movie category from the menu.</li>
      <li>Look at the displayed image.</li>
-     <li>Type the movie name and submit your guess.</li>
+     <li>Select the movie name and submit your guess.</li>
      <li>Get feedback instantly and move on to the next challenge!</li>
    </ul>
 
