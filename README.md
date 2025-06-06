@@ -1,4 +1,4 @@
-<h1 align="center">Guess the Movie — Java Project 🎬</h1>
+<h1 align="center">Guess the Movie — Java 🎬</h1>
 <p align="left">
   <a href="README_ES.md" target="_blank">
     Ver README en Español
